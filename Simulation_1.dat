@@ -1,0 +1,13 @@
+[Run]
+Active=0
+[Simulator]
+ShowIO=1
+[Display]
+DisplayType=0
+DisplayWidth=128
+DisplayHeight=64
+[Window]
+Xpos=235
+Ypos=130
+Width=851
+Height=369

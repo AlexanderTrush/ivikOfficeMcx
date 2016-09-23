@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1287685292 source:i:\Грибовка\Новая папка\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288793962 i:\Грибовка\Новая папка\nvmcc_headers.h
+
+1288701662 source:i:\Грибовка\Новая папка\useri.c
+	"stdui.c"
+
+1288006140 source:i:\грибовка\новая папка\useri.c
+	"stdui.c"
+
+1287685292 source:i:\грибовка\новая папка\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288006146 i:\грибовка\новая папка\nvmcc_headers.h
+
+1287681692 source:g:\Грибовка\Новая папка\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288733654 g:\Грибовка\Новая папка\nvmcc_headers.h
+
+1288733648 source:g:\Грибовка\Новая папка\useri.c
+	"stdui.c"
+
+1287681692 source:g:\Грибовка\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288820468 g:\Грибовка\brigantina\nvmcc_headers.h
+
+1288868504 source:i:\Грибовка\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288873034 i:\Грибовка\brigantina\nvmcc_headers.h
+
+1289943451 source:c:\documents and settings\alexander\Рабочий стол\Грибовка\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1289943987 c:\documents and settings\alexander\Рабочий стол\Грибовка\brigantina\nvmcc_headers.h
+
+1288959879 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Грибовка\brigantina\useri.c
+	"stdui.c"
+	"sysdef.lib"
+
+1288986932 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Грибовка\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1288995630 c:\documents and settings\alexandert.ivik\Рабочий стол\Грибовка\brigantina\nvmcc_headers.h
+
+1289939848 source:c:\documents and settings\alexander\Рабочий стол\Грибовка\brigantina\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1291316360 source:c:\documents and settings\alexander\Мои документы\Грибовка\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1291319178 c:\documents and settings\alexander\Мои документы\Грибовка\brigantina\nvmcc_headers.h
+
+1291319173 source:c:\documents and settings\alexander\Мои документы\Грибовка\brigantina\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1297437029 source:c:\documents and settings\alexander\Рабочий стол\brigantina\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1297437065 c:\documents and settings\alexander\Рабочий стол\brigantina\nvmcc_headers.h
+
+1299182003 source:c:\documents and settings\alexander\Рабочий стол\меню\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+
+1299182864 c:\documents and settings\alexander\Рабочий стол\меню\nvmcc_headers.h
+
+1299176877 source:c:\documents and settings\alexander\Рабочий стол\меню\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1301730272 source:c:\documents and settings\admin\Рабочий стол\меню\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1301730275 c:\documents and settings\admin\Рабочий стол\меню\nvmcc_headers.h
+
+1301730037 source:c:\documents and settings\admin\Рабочий стол\меню\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1302113065 source:c:\documents and settings\alexander\Рабочий стол\Классико\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1302110663 source:c:\documents and settings\alexander\Рабочий стол\Классико\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1302113074 c:\documents and settings\alexander\Рабочий стол\Классико\nvmcc_headers.h
+
+1302243614 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Классико\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1302460125 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Классико\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1302460135 c:\documents and settings\alexandert.ivik\Рабочий стол\Классико\nvmcc_headers.h
+
+1302469673 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Таиров\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1302468768 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Таиров\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1302469679 c:\documents and settings\alexandert.ivik\Рабочий стол\Таиров\nvmcc_headers.h
+
+1302620832 source:c:\documents and settings\alexander\Рабочий стол\Таиров\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1302630253 source:c:\documents and settings\alexander\Рабочий стол\Таиров\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1302630264 c:\documents and settings\alexander\Рабочий стол\Таиров\nvmcc_headers.h
+
+1306336463 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Таиров\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1306336470 c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Таиров\nvmcc_headers.h
+
+1302780310 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Таиров\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1320096170 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Александровский кухня\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1320096169 source:c:\documents and settings\alexander\Рабочий стол\Александровский кухня\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1320100526 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Александровский кухня\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1320100530 c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\Александровский кухня\nvmcc_headers.h
+
+1325000986 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\ТИС кухня\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1325001113 c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\ТИС кухня\nvmcc_headers.h
+
+1326372589 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\ТИС бар\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1326372155 source:c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\ТИС бар\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+	"TRemoteIO.lib"
+
+1326372598 c:\documents and settings\alexandert.ivik\Рабочий стол\mcx проекты\ТИС бар\nvmcc_headers.h
+
+1352921586 source:h:\mcx проекты\Аланур\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1352921934 h:\mcx проекты\Аланур\nvmcc_headers.h
+
+1352921630 source:h:\mcx проекты\Аланур\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1352995395 source:c:\documents and settings\alexander\Рабочий стол\Аланур\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1352995398 c:\documents and settings\alexander\Рабочий стол\Аланур\nvmcc_headers.h
+
+1352966084 source:c:\documents and settings\alexander\Рабочий стол\Аланур\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1357850269 source:c:\documents and settings\alexander\Рабочий стол\menu\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1352995395 source:c:\documents and settings\alexander\Рабочий стол\menu\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1357850684 c:\documents and settings\alexander\Рабочий стол\menu\nvmcc_headers.h
+
+1352995395 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 12.01.13\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358072432 c:\documents and settings\alexander\Рабочий стол\меню\menu 12.01.13\nvmcc_headers.h
+
+1358072429 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 12.01.13\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+	"multitask.lib"
+
+1352995395 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 13.01.13\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358284221 c:\documents and settings\alexander\Рабочий стол\меню\menu 13.01.13\nvmcc_headers.h
+
+1358089494 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 13.01.13\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358317830 source:c:\documents and settings\alexander\Рабочий стол\меню\menutest 16.01.13\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358364812 c:\documents and settings\alexander\Рабочий стол\меню\menutest 16.01.13\nvmcc_headers.h
+
+1358363461 source:c:\documents and settings\alexander\Рабочий стол\меню\menutest 16.01.13\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358413225 source:c:\documents and settings\alexander\Рабочий стол\меню\Спорткомплекс\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358413228 c:\documents and settings\alexander\Рабочий стол\меню\Спорткомплекс\nvmcc_headers.h
+
+1358413073 source:c:\documents and settings\alexander\Рабочий стол\меню\Спорткомплекс\useri.c
+	"stdui.c"
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358413225 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 17.01.13 гребаный bom\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358413280 c:\documents and settings\alexander\Рабочий стол\меню\menu 17.01.13 гребаный bom\nvmcc_headers.h
+
+1358548112 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358520318 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358548114 c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13\nvmcc_headers.h
+
+1358520318 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13 укоротил stack за счет const string\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358707877 c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13 укоротил stack за счет const string\nvmcc_headers.h
+
+1358707219 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 18.01.13 укоротил stack за счет const string\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358757777 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 20.01.13 укоротил stack за счет const delphi\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358759651 c:\documents and settings\alexander\Рабочий стол\меню\menu 20.01.13 укоротил stack за счет const delphi\nvmcc_headers.h
+
+1358758047 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 20.01.13 укоротил stack за счет const delphi\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1358757777 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 21.01.13 унификация дисплеев delphi\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1358801462 c:\documents and settings\alexander\Рабочий стол\меню\menu 21.01.13 унификация дисплеев delphi\nvmcc_headers.h
+
+1358801450 source:c:\documents and settings\alexander\Рабочий стол\меню\menu 21.01.13 унификация дисплеев delphi\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1363703801 source:c:\documents and settings\alexander\Рабочий стол\меню\Канатная 36\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1363704288 c:\documents and settings\alexander\Рабочий стол\меню\Канатная 36\nvmcc_headers.h
+
+1364217879 source:c:\documents and settings\alexander\Рабочий стол\меню\Канатная 36\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1364377337 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Алупка 5\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1364377434 c:\documents and settings\alexandert.ivik\Рабочий стол\Алупка 5\nvmcc_headers.h
+
+1366368489 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Заря\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1366368494 c:\documents and settings\alexandert.ivik\Рабочий стол\Заря\nvmcc_headers.h
+
+1366362879 source:c:\documents and settings\alexandert.ivik\Рабочий стол\Заря\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1366362880 source:i:\mcx проекты\Заря\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1366638762 source:i:\mcx проекты\Заря\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1366638766 i:\mcx проекты\Заря\nvmcc_headers.h
+
+1390149424 source:d:\dropbox\ИВИК\mcx проекты\Заря\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1390149421 source:d:\dropbox\ИВИК\mcx проекты\Заря\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1390213063 d:\dropbox\ИВИК\mcx проекты\Заря\nvmcc_headers.h
+
+1460187367 source:d:\dropbox\ИВИК\mcx проекты\Приточка 3 точки + вытяжка су\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1460187591 source:d:\dropbox\ИВИК\mcx проекты\Приточка 3 точки + вытяжка су\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1460187607 d:\dropbox\ИВИК\mcx проекты\Приточка 3 точки + вытяжка су\nvmcc_headers.h
+
+1471427202 source:d:\dropbox\ИВИК\mcx проекты\Офис\useri.c
+	"sysdef.lib"
+	"mcxlib.lib"
+
+1471354181 source:d:\dropbox\ИВИК\mcx проекты\Офис\main.c
+	"nvmcc_headers.h"
+	"stdalgo.c"
+	"pid.lib"
+
+1471354188 d:\dropbox\ИВИК\mcx проекты\Офис\nvmcc_headers.h
+

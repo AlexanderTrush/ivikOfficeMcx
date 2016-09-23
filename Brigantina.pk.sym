@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mcxpackage>
+  <bininfo>
+    <binfile>Brigantina.pk</binfile>
+  </bininfo>
+  <files>
+    <file id="5FFF21" name="useri.o" symbolfile="useri.o.sym" />
+    <file id="5FFF06" name="graph.bin" />
+    <file id="5FFFFE" name="desc_GMF.bin" />
+    <file id="5FFF01" name="font.bin" />
+    <file id="1F5002" name="main.o" symbolfile="main.o.sym" />
+  </files>
+</mcxpackage>
